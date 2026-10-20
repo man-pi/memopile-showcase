@@ -1,5 +1,7 @@
 # MemoPile
 
+> Part of a larger agent platform. ▶ [Watch the 90-second overview](https://github.com/man-pi)
+
 An AI task pile. Notes captured on the iPhone or the web become tasks; Claude extracts, triages and prioritises them; and an agent pipeline builds and tests the work, with a person signing off every release.
 
 > **Source code is private.** This repository shows what MemoPile does and how it is built. The code is available on request.
